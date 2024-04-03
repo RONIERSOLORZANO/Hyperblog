@@ -1,3 +1,5 @@
 Este es un texto de prueba para hacer cambios en git
 
+estas pruebas las hago por un curso de git y github en Platzi
+
 No tiene nada especial, eso lo hace especial :3
