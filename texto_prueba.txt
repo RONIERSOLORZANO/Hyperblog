@@ -2,4 +2,4 @@ Este es un texto de prueba para hacer cambios en git y crear archivos html y css
 
 estas pruebas las hago por un curso de git y github en Platzi
 
-No tiene nada especial, eso lo hace especial :3
+ahora vamos a trabajar en un proyecto mucho más grande
