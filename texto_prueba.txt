@@ -3,3 +3,5 @@ Este es un texto de prueba para hacer cambios en git y crear archivos html y css
 estas pruebas las hago por un curso de git y github en Platzi
 
 ahora vamos a trabajar en un proyecto mucho más grande
+
+otro programador trabajo esta linea de aquí
